@@ -31,8 +31,23 @@ Preferred:
 
 Optional subfolders (purely organizational):
 
+- `recipes/mains/<slug>.md`
+- `recipes/sides/<slug>.md`
+- `recipes/soups-stews/<slug>.md`
+- `recipes/salads/<slug>.md`
+- `recipes/breakfast/<slug>.md`
+- `recipes/snacks/<slug>.md`
 - `recipes/desserts/<slug>.md`
+- `recipes/baking/<slug>.md`
+- `recipes/drinks/<slug>.md`
+- `recipes/sauces-condiments/<slug>.md`
 - `recipes/weeknight/<slug>.md`
+- `recipes/meal-prep/<slug>.md`
+- `recipes/dietary/vegetarian/<slug>.md`
+- `recipes/dietary/vegan/<slug>.md`
+- `recipes/dietary/gluten-free/<slug>.md`
+- `recipes/dietary/dairy-free/<slug>.md`
+- `recipes/uncategorized/<slug>.md`
 
 Slug rules:
 
@@ -132,4 +147,3 @@ Recommended (include only if meaningful):
 ## Template
 
 See: `templates/recipe.template.md`
-
